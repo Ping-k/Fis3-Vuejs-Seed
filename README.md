@@ -1,5 +1,10 @@
 ## 使用FIS3和VueJS开发单页面应用
 
+### 相关链接
+
+ - [FIS3官网](http://fis.baidu.com)
+ - [Github-Fis3](https://github.com/fex-team/fis3)
+
 ### 简介
 
 > demo应该是小而美的
@@ -118,10 +123,4 @@ fis.match('**/*.scss', {
 #### 组件仓库
 
 为了保证诸如VueJS、jQuery等社区资源都能通过modjs方式组件式封装和加载，您可以进入[FIS Component](https://github.com/fis-components)下载或提交社区资源。
-
-
-### 相关链接
-
- - [FIS官网](http://fis.baidu.com)
- - [Github](https://github.com/fex-team/fis3)
 
