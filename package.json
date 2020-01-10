@@ -1,8 +1,8 @@
 {
-  "name": "fis-vue-seed",
+  "name": "Fis3-Vuejs-Seed",
   "version": "0.0.1",
-  "description": "Build VueJS project with FIS3",
-  "author": "zhangtao07",
+  "description": "FIS3与VueJS结合开发简书单页面应用DEMO",
+  "author": "Pingk",
   "license": "MIT",
   "dependencies": {
     "fis-parser-node-sass": "*",
