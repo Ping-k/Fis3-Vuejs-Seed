@@ -23,6 +23,13 @@ git clone https://github.com/zhangtao07/fis-vuejs-seed.git
 npm install [-g] fis3-hook-module
 npm install [-g] fis3-postpackager-loader
 
+修改package.json再安装：cnpm i
+  "dependencies": {
+    "fis-parser-node-sass": "*", // 官方版本过低："^0.1.9"
+    "fis3-hook-module": "*",
+    "fis3-postpackager-loader": "*"
+  }
+
 #编译预览
 cd fis-vuejs-seed
 fis3 release

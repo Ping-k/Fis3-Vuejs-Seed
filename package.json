@@ -5,7 +5,7 @@
   "author": "zhangtao07",
   "license": "MIT",
   "dependencies": {
-    "fis-parser-node-sass": "^0.1.9",
+    "fis-parser-node-sass": "*",
     "fis3-hook-module": "*",
     "fis3-postpackager-loader": "*"
   }
